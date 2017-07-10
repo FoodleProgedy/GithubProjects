@@ -1,0 +1,4 @@
+name: CCommands
+version: ${project.version}
+main: me.foodle.ccommands.CCommands
+description: CCommands. A plugin which allows you to make commands to send simple messages. Jesus christ people sell /discord commands, and this is here, god why.
